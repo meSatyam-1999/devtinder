@@ -1,6 +1,7 @@
+/* eslint-disable react/prop-types */
 
 
-const UserCard = ({ user} ) => {
+const UserCard = ({ user } ) => {
 
   
   const {firstName, lastName, age, gender, photoUrl, about } = user;
@@ -17,8 +18,8 @@ const UserCard = ({ user} ) => {
         </figure>
         <div className="card-body items-center text-center">
           <h2 className="card-title">{firstName + " " + lastName}</h2>
-          <h3>Age: {age}</h3>
-          <h3>Gender: {gender}</h3>
+          {age && <h3>Age: {age}</h3>}
+          {gender && <h3>Gender: {gender}</h3>}
           <p>
             {about}
           </p>
