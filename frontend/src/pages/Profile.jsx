@@ -2,7 +2,7 @@
 
 const Profile = () => {
   return (
-    <div>Profile</div>
+    <div>This is my Profile page--!!!!</div>
   )
 }
 
