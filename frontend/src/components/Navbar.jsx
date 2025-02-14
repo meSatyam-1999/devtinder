@@ -24,17 +24,17 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="navbar bg-warning shadow-sm">
+      <div className="navbar bg-[#D91656] shadow-sm">
         <div className="flex-1">
             <div className="flex">
             <img src={Logo} alt="Logo" className="w-15 h-15" />
-          <Link to="/" className="btn btn-ghost text-3xl font-bold text-black mt-3">
+          <Link to="/" className="btn btn-ghost text-3xl font-bold text-white mt-3">
             DevTinder
           </Link>
           </div>
         </div>
         {user && (<div className="flex gap-2">
-          <div className="wlcm-msg mt-2 text-black">Welcome, <b>{user.firstName}</b></div>
+          <div className="wlcm-msg mt-2 text-white">Welcome, <b>{user.firstName}</b></div>
           {/* <input
             type="text"
             placeholder="Search"
@@ -46,7 +46,7 @@ const Navbar = () => {
               role="button"
               className="btn btn-ghost btn-circle avatar"
             >
-             <div className="w-10 rounded-full">
+             <div className="w-10 rounded-full avatar-online">
                 <img
                   alt="User Photo"
                   src={user.photoUrl}

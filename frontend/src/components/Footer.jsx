@@ -2,7 +2,7 @@
 
 const Footer = () => {
   return (
-    <div className="bottom-0 fixed w-full">
+    <div className="w-full">
         <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4">
   <aside className="grid-flow-col items-center">
     <svg

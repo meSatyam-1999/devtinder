@@ -28,8 +28,8 @@ const Login = () => {
   };
 
   return (
-    <div className="flex justify-center my-10">
-      <div className="card card-border bg-info-content w-96 h-110">
+    <div className="flex justify-center my-15">
+      <div className="card card-border bg-base-300 w-96 h-110">
         <div className="card-body">
           <h2 className="card-title justify-center text-3xl font-bold">Login</h2>
           {/* Adding input box */}
@@ -65,7 +65,7 @@ const Login = () => {
           <p className="text-red-500 font-semibold">{error}</p>
           <div className="card-actions justify-center">
             <button
-              className="btn btn-success mt-4 w-full"
+              className="btn bg-[#D91656] w-full mb-4"
               onClick={handleLogin}
             >
               Login

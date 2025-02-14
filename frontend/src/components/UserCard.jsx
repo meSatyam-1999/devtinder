@@ -24,8 +24,8 @@ const UserCard = ({ user } ) => {
             {about}
           </p>
           <div className="card-actions mt-4">
-            <button className="btn btn-secondary px-8">Ignore</button>
-            <button className="btn btn-accent px-6">Interested</button>
+            <button className="btn bg-[#D91656] px-8">Ignore</button>
+            <button className="btn bg-[#00D390] text-black px-6">Interested</button>
           </div>
         </div>
       </div>
