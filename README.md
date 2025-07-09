@@ -33,13 +33,13 @@ Connect with fellow coders in a feature-rich dating platform designed exclusivel
 ---
 
 ### 🖥️ **App Preview**  
-![Registration](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20172144.png)  
-![Feed](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20173023.png)  
+![Registration](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20175751.png)  
+![Feed](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20175410.png)  
 ![Profile](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20172618.png)  
-![Pending Request](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20172844.png)  
-![Request accept](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20173845.png)  
-![Subscription](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20172736.png)  
-![chat](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20173200.png)  
+![Pending Request](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20180215.png)  
+![Request accept](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20175643.png)  
+![Subscription](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20175700.png)  
+![chat](https://github.com/meSatyam-1999/devtinder/blob/main/Screenshot%202025-07-09%20175728.png)  
  
 
 ---
