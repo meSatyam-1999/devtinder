@@ -29,7 +29,7 @@ const Navbar = () => {
             <div className="flex">
             <img src={Logo} alt="Logo" className="w-15 h-15" />
           <Link to="/" className="btn btn-ghost text-3xl font-bold text-white mt-3">
-            DevTinder
+            DevMatch
           </Link>
           </div>
         </div>
