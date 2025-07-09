@@ -70,7 +70,7 @@ Connect with fellow coders in a feature-rich dating platform designed exclusivel
 ### 🚦 **Getting Started**  
 1. Clone repository:  
 ```bash
-git clone https://github.com/yourusername/devmatch-dating-app.git
+git clone [https://github.com/meSatyam-1999/devtinder.git]
 ```  
 2. Install dependencies:  
 ```bash
